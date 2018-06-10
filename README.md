@@ -31,8 +31,9 @@ Self-taught in my spare time over the last year or so. I started by programming 
 - My dissertation centered around the non-photochemical laser-induced nucleation (NPLIN) of sugars. I chose this because a) it sounds impressive, and b) working with lasers sounded one hell of a lot cooler than it ended up being.
 
 #### School
-A* grade at A Level in Maths, Chemistry and Drama.
-11 A* GCSEs.
+A Levels in Maths, Chemistry and Drama, all at A* Grade.
+
+11 GCSEs at A* Grade.
 
 ## Experience
 
