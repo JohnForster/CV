@@ -1,6 +1,6 @@
 ## John Forster
 
-I am a 26 year old who is sick of unchallenging admin work, and is deeply ashamed of how little he has acheived thus far in his life. I am a people-person and an extrovert, who has no time for unnecessary drama. Writing CVs is possibly my least favourite activity on this earth.
+I am a 26 year old who is sick of repetetive admin work, and looking for new challenges in a new area where I can shine.
 
 ## Skills
 
