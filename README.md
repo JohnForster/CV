@@ -39,16 +39,20 @@ A Levels in Maths, Chemistry and Drama, all at A* Grade.
 
 **Court of Protection** (February 2018 to June 2018)   
 *Admin Officer for the case progression branch*
+
 Anonymous desk-flesh for the Justice Dept.
 
 **Health Education England** (August 2017 to February 2018)    
 *Quality Support Officer*
+
 Was responsible for observing panels on the treatment of medical students around London and the South East, writing reports on the findings, and tracking the findings as points for improvement at the hospitals.
 
 **King's College Hospital** (June 2017 to August 2017)    
 *Admin Officer*
+
 Carried out audits of emergency hospital equipment, to ensure that they were in good condition, and being checked regularly by the nursing staff. Also assisted in the running of resuscitation courses teaching trainee doctors how to perform advanced life support.
 
 **Barburrito** (September 2016 to June 2017)    
 *Team Leader*
+
 Made and rolled burritos. As "Team Leader" I was responsible for running the shop when other managers weren't around. This included managing the team, cashing up, and being responsible for closing the shop at the end of the night.  
