@@ -1,6 +1,6 @@
 ## John Forster
 
-I am a 26 year old who is sick of repetetive admin work, and looking for new challenges in a new area where I can shine.
+I am a 26 year old who is sick of repetitive admin work, and looking for new challenges in a new area where I can shine.
 
 ## Skills
 
