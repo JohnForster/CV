@@ -2,6 +2,17 @@
 
 I am a 26 year old who is sick of repetitive admin work, and looking for new challenges in a new area where I can shine.
 
+## Projects
+
+
+
+| Title    | Description | Technologies|
+| -------- | --------    | -------- |
+| Acebook     | A clone of facebook, including log-in functionality, posts, comments and likes.        | Ruby, Rails, HTML|
+| PiratesBNB     | A pirate-themed clone of AirBNB, where sea-curious landlubbers can hire a ship for weekend marauding.| Ruby, Sinatra, SQL, Node, Express, Javascript, jQuery, Jade, HTML, CSS|
+| Airport Challenge     | An early project written to get to grips with OOD, and SOLID principles| Ruby|
+
+
 ## Skills
 
 #### Programming
