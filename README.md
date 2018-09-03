@@ -74,3 +74,6 @@ Carried out audits of emergency hospital equipment, to ensure that they were in 
 *Team Leader*
 
 Made and rolled burritos. As Team Leader I was responsible for running the shop when other managers weren't around. This included managing the team, cashing up, and being responsible for closing the shop at the end of the night.
+
+## Interests
+I am a highly sociable person with a keen interest in film and music. I attend Glastonbury Festival every year, and have done so since I was 10. I play guitar, but I'm nowhere near as proficient as I should be considering I started ten years ago. My favourite sports are table tennis and squash, and I also occasionally play overly-complex board games with friends. I'm up for trying pretty much anything with a good group of people.
