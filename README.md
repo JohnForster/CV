@@ -1,27 +1,30 @@
 ## John Forster
 
-I am a 26 year old who is sick of repetitive admin work, and looking for new challenges in a new area where I can shine.
+I am a 26 year old software developer who is sick of repetitive admin work, and looking for new challenges in a new area where I can shine. I graduated from the University of Edinburgh in 2016, and from Makers' coding bootcamp in August 2018.
 
 ## Projects
 
+| Title    | Description |Timeframe| Technologies|
+| -------- | --------|--------| -------- |
+|[Hip Hip Array][1] | Final project at Makers, an educational tool for beginner coders to help find array methods in three languages.|10 Days|React, Express, Javascript, Ruby and Python|
+|[Bank Tech Test][2]| An example tech test, written in ruby to demonstrate TDD, OOD and clean code principles.|1 Day|Ruby|
+|[Game of Life][3]| An implementation of Conway's Game of Life written in React as an example tech test.|1 Day|React, Javascript|
+| [Acebook][4]        | A clone of facebook, including log-in functionality, posts, comments and likes.        |2 Weeks| Ruby, Rails, HTML|
+| [PiratesBNB][5]       | A pirate-themed clone of AirBNB, where sea-curious landlubbers can hire a ship for weekend marauding.|1 Week| Ruby, Sinatra, SQL, Node, Express, Javascript, jQuery, Jade, HTML, CSS|
+| [Airport Challenge][6]     | An early project written to get to grips with OOD, and SOLID principles|2 Days| Ruby|
 
-
-| Title    | Description | Technologies|
-| -------- | --------    | -------- |
-| Acebook     | A clone of facebook, including log-in functionality, posts, comments and likes.        | Ruby, Rails, HTML|
-| PiratesBNB     | A pirate-themed clone of AirBNB, where sea-curious landlubbers can hire a ship for weekend marauding.| Ruby, Sinatra, SQL, Node, Express, Javascript, jQuery, Jade, HTML, CSS|
-| Airport Challenge     | An early project written to get to grips with OOD, and SOLID principles| Ruby|
-
+[1]:https://github.com/bibicollins/array_of_sunshine
+[2]:https://github.com/JohnForster/bank_tech_test
+[3]:https://github.com/JohnForster/forsters_game_of_life
+[4]:https://github.com/JohnForster/acebook-continued-frontend
+[5]:https://github.com/archmagos/Makers-BNB/
+[6]:https://github.com/JohnForster/airport_challenge_JF
 
 ## Skills
 
 #### Programming
 
-Self-taught in my spare time over the last year or so. I started by programming basic games in Unity with C#, before deciding to give my career a kick up the arse and attend the Makers' Academy. As a result of this decision, I started learning Ruby to prepare for the course.
-
-- Experience
-- Achievements
-- Evidence
+Proficient with Ruby and Javascript, with experience in React, Rails, Node and Express. An advocate of Test Driven Development (TDD).
 
 ## Education
 
@@ -33,7 +36,7 @@ Self-taught in my spare time over the last year or so. I started by programming 
 
 - OOP, TDD, MVC, DDD
 - Agile/XP
-- Ruby, Rails, JavaScript
+- Ruby, Rails, JavaScript, React
 - RSpec, Jasmine
 
 #### Edinburgh University (Graduated June 2017)
@@ -51,7 +54,7 @@ A Levels in Maths, Chemistry and Drama, all at A* Grade.
 **Court of Protection** (February 2018 to June 2018)   
 *Admin Officer for the case progression branch*
 
-Anonymous desk-flesh for the Justice Dept.
+Handled applications to the Court of Protection from the public for permission to make financial or personal welfare decisions on someone elses behalf.
 
 **Health Education England** (August 2017 to February 2018)    
 *Quality Support Officer*
@@ -61,9 +64,9 @@ Was responsible for observing panels on the treatment of medical students around
 **King's College Hospital** (June 2017 to August 2017)    
 *Admin Officer*
 
-Carried out audits of emergency hospital equipment, to ensure that they were in good condition, and being checked regularly by the nursing staff. Also assisted in the running of resuscitation courses teaching trainee doctors how to perform advanced life support.
+Carried out audits of emergency hospital equipment, to ensure that they were in good condition and being checked regularly by the nursing staff. Also assisted in the running of resuscitation courses teaching trainee doctors how to perform advanced life support.
 
 **Barburrito** (September 2016 to June 2017)    
 *Team Leader*
 
-Made and rolled burritos. As "Team Leader" I was responsible for running the shop when other managers weren't around. This included managing the team, cashing up, and being responsible for closing the shop at the end of the night.  
+Made and rolled burritos. As Team Leader I was responsible for running the shop when other managers weren't around. This included managing the team, cashing up, and being responsible for closing the shop at the end of the night.  
