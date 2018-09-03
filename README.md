@@ -1,10 +1,14 @@
 ## John Forster
 [Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests](#interests)
 
-I am a 26 year old software developer who is sick of repetitive admin work, and looking for new challenges in a new area where I can shine. I graduated from the University of Edinburgh in 2016, and from Makers' coding bootcamp in August 2018.
+I am a 26 year old software developer who was sick of repetitive admin work, and so enrolled in Makers Academy 16-week coding bootcamp in May 2018. I graduated in August 2018 after thoroughly enjoying the course, and I am currently looking for my first Junior Developer position.
+
 <p align="center">
-<a href="https://www.linkedin.com/in/habin-isa/"><img src="https://www.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-512.png" alt="linkedin" hspace="50" height="42" width="42"></a>
-<a href="https://github.com/habin-isa"><img src="https://png.icons8.com/metro/1600/github.png" alt="github" hspace="50" height="42" width="42"></a>
+<a href="https://www.linkedin.com/in/forster-john/"><img src="https://www.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-512.png" alt="linkedin" hspace="50" height="42" width="42"></a>
+<a href="https://github.com/JohnForster"><img src="https://png.icons8.com/metro/1600/github.png" alt="github" hspace="50" height="42" width="42"></a>
+
+
+[//]: # (## About Me I've always enjoyed problem solving and fixing things, so programming has turned out to be a natural fit for me, while also providing the chance to build something and be creative. I got into programming I am a thoroughly social person, who works best as part of a team, and thrives on collaborative problem solving. While it's not my preference, I am also perfectly capable of working and learning independently, however.)
 
 ## Projects
 
@@ -26,9 +30,15 @@ I am a 26 year old software developer who is sick of repetitive admin work, and 
 
 ## Skills
 
-#### Programming
+#### Clean Code Advocate
 
 Proficient with Ruby and Javascript, with experience in React, Rails, Node and Express. An advocate of Test Driven Development (TDD).
+
+#### Independent Learner
+
+#### Fast Learner
+
+#### Good Team Player
 
 ## Education
 
