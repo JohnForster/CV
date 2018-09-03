@@ -37,7 +37,6 @@ Proficient with Ruby and Javascript, with experience in React, Rails, Node and E
 - Curious and passionate about code.
 - Fast, independent learner.
 - Great collaborator.
-
 - OOP, TDD, MVC, DDD
 - Agile/XP
 - Ruby, Rails, JavaScript, React
