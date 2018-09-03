@@ -1,6 +1,11 @@
 ## John Forster
 
 I am a 26 year old software developer who is sick of repetitive admin work, and looking for new challenges in a new area where I can shine. I graduated from the University of Edinburgh in 2016, and from Makers' coding bootcamp in August 2018.
+<p align="center">
+  <a href="https://github.com/JohnForster"><img src="https://png.icons8.com/metro/1600/github.png" alt="GitHub"  height="45" width="45" hspace="50"></a>
+  <a href="https://www.linkedin.com/in/forster-john/"><img src="https://www.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-512.png" align="middle" alt="LinkedIn" height="45" width="45" hspace="50"></a>
+</p>
+
 
 ## Projects
 
@@ -69,4 +74,8 @@ Carried out audits of emergency hospital equipment, to ensure that they were in 
 **Barburrito** (September 2016 to June 2017)    
 *Team Leader*
 
-Made and rolled burritos. As Team Leader I was responsible for running the shop when other managers weren't around. This included managing the team, cashing up, and being responsible for closing the shop at the end of the night.  
+Made and rolled burritos. As Team Leader I was responsible for running the shop when other managers weren't around. This included managing the team, cashing up, and being responsible for closing the shop at the end of the night.
+
+------
+<p align="center">
+<a href="https://www.linkedin.com/in/forster-john/"><img src="https://www.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-512.png" alt="linkedin" hspace="55" height="45" width="45"></a>
