@@ -36,9 +36,9 @@ The Makers course focusses on pair programming, test driven development, agile p
 
 Over the course of the Makers bootcamp, I have developed a strong understanding of the ideas behind writing clean code, and take care to ensure that the code I write is test driven, DRY, and follows [SOLID principles](https://en.wikipedia.org/wiki/SOLID).
 
-#### Good Problem Solver
+#### Good Problem Solver and Fast learner.
 
-#### Fast Learner
+I have always enjoyed fixing things and understanding why they work, which is what lead me to enjoy maths and science when I was younger, and programming now. I have a good logical and analytical mind, and so I'm skilled at quickly working out where a problem lies and how to fix it. I pick up new skills quickly, and this has helped me to stay ahead throughout the course.
 
 #### Good Team Player
 
