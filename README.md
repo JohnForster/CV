@@ -47,15 +47,15 @@ I work best as part of a team, and thrive on collaborative problem solving. I am
 ## Education
 
 #### Makers Academy (June 2018 - August 2018)
-16 week coding bootcamp which focuses on a number of principles and technologies:
+*16 week coding bootcamp which focuses on a number of principles and technologies:*
 - OOP, TDD, MVC, DDD
 - Agile Processes
 - Ruby, Rails, JavaScript, React, Express, Node, Python, PostgreSQL, Heroku
 
 #### Edinburgh University (Graduated June 2017)
+*Chemistry BSc*
 
-- Chemistry BSc
-- My dissertation centered around the non-photochemical laser-induced nucleation (NPLIN) of sugars. I chose this because a) it sounds impressive, and b) working with lasers sounded one hell of a lot cooler than it ended up being.
+My dissertation centered around the non-photochemical laser-induced nucleation (NPLIN) of sugars. I chose this because a) it sounds impressive, and b) working with lasers sounded one hell of a lot cooler than it ended up being.
 
 #### School
 A Levels in Maths, Chemistry and Drama, all at A* Grade.
