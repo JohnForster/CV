@@ -34,7 +34,7 @@ The Makers course focusses on pair programming, test driven development, agile p
 
 #### Clean Code Advocate
 
-Over the course of the Makers bootcamp, I have developed a strong understanding of the ideas behind writing clean code, and take care to ensure that the code I write is test driven, and follows [SOLID principles](https://en.wikipedia.org/wiki/SOLID).
+Over the course of the Makers bootcamp, I have developed a strong understanding of the ideas behind writing clean code, and take care to ensure that the code I write is test driven, DRY, and follows [SOLID principles](https://en.wikipedia.org/wiki/SOLID).
 
 #### Good Problem Solver
 
