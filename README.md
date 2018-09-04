@@ -12,16 +12,14 @@ I am a 26 year old software developer who was sick of repetitive admin work, and
 
 ## Projects
 
-The Makers course focusses on pair programming, test driven development, agile processes, and learning by doing. You can see my progression throughout the course on (my Github)[https://github.com/JohnForster], but see below for a few select projects to demonstrate what I have learnt over the last 12 weeks:
-
 | Title    | Description |Timeframe| Technologies|
 | -------- | --------|--------| -------- |
 |[Hip Hip Array][1] | Final project at Makers, an educational tool for beginner coders to help find array methods in three languages.|10 Days|React, Express, Javascript, Ruby and Python|
-|[Bank Tech Test][2]| An example tech test, written in ruby to demonstrate TDD, OOP and clean code principles.|1 Day|Ruby|
+|[Bank Tech Test][2]| An example tech test, written in ruby to demonstrate TDD, OOD and clean code principles.|1 Day|Ruby|
 |[Game of Life][3]| An implementation of Conway's Game of Life written in React as an example tech test.|1 Day|React, Javascript|
-| [Acebook][4]| A clone of facebook, including log-in functionality, posts, comments and likes. This was my first project using React. |2 Weeks| Ruby, Rails, HTML|
-| [PiratesBNB][5] | A pirate-themed clone of AirBNB, where sea-curious landlubbers can hire a ship for weekend marauding.|1 Week| Ruby, Sinatra, SQL, Node, Express, Javascript, jQuery, Jade, HTML, CSS|
-| [Airport Challenge][6]     | A project written after one week of the course to get to grips with OOD, and SOLID principles|2 Days| Ruby|
+| [Acebook][4]        | A clone of facebook, including log-in functionality, posts, comments and likes.        |2 Weeks| Ruby, Rails, HTML|
+| [PiratesBNB][5]       | A pirate-themed clone of AirBNB, where sea-curious landlubbers can hire a ship for weekend marauding.|1 Week| Ruby, Sinatra, SQL, Node, Express, Javascript, jQuery, Jade, HTML, CSS|
+| [Airport Challenge][6]     | An early project written to get to grips with OOD, and SOLID principles|2 Days| Ruby|
 
 [1]:https://github.com/bibicollins/array_of_sunshine
 [2]:https://github.com/JohnForster/bank_tech_test
@@ -34,23 +32,27 @@ The Makers course focusses on pair programming, test driven development, agile p
 
 #### Clean Code Advocate
 
-Over the course of the Makers bootcamp, I have developed a strong understanding of the ideas behind writing clean code, and take care to ensure that the code I write is test driven, and follows [SOLID principles](https://en.wikipedia.org/wiki/SOLID).
+Proficient with Ruby and Javascript, with experience in React, Rails, Node and Express. An advocate of Test Driven Development (TDD).
 
-#### Good Problem Solver
+#### Independent Learner
 
 #### Fast Learner
 
 #### Good Team Player
 
-I work best as part of a team, and thrive on collaborative problem solving. I am a good communicator, and I'm sure to make the effort to understand differing viewpoints when they arise. I come up with my best ideas when I have someone else to bounce them off, and find the social aspect of group work motivating and energising.
-
 ## Education
 
 #### Makers Academy (June 2018 - August 2018)
-16 week coding bootcamp which focuses on a number of principles and technologies:
+
+Things to mention: Main programming languages ruby and javascript. focus on TDD and SOLID principles. Exposure to React, as well as frameworks such as Rails, Express, Node. Pair programming and team work. 
+
+- Curious and passionate about code.
+- Fast, independent learner.
+- Great collaborator.
 - OOP, TDD, MVC, DDD
-- Agile Processes
-- Ruby, Rails, JavaScript, React, Express, Node, Python, PostgreSQL, Heroku
+- Agile/XP
+- Ruby, Rails, JavaScript, React
+- RSpec, Jasmine
 
 #### Edinburgh University (Graduated June 2017)
 
@@ -77,7 +79,7 @@ Was responsible for observing panels on the treatment of medical students around
 **King's College Hospital** (June 2017 to August 2017)    
 *Admin Officer*
 
-Carried out audits of emergency hospital equipment, to ensure that they were in good condition and being checked regularly by the nursing staff. Also assisted in the running of resuscitation courses teaching trainee doctors how to perform advanced life support.
+Carried out audits of emergency hospital equipment, to ensure that they were in good condition and being checked regularly by the nursing staff. Also assisted in the running of resuscitation courses, teaching trainee doctors how to perform advanced life support.
 
 **Barburrito** (September 2016 to June 2017)    
 *Team Leader*
@@ -85,4 +87,4 @@ Carried out audits of emergency hospital equipment, to ensure that they were in 
 Made and rolled burritos. As Team Leader I was responsible for running the shop when other managers weren't around. This included managing the team, cashing up, and being responsible for closing the shop at the end of the night.
 
 ## Interests
-I am a highly sociable person with a keen interest in film and music. I attend Glastonbury Festival every year, and have done so since I was 10. I play guitar, but I'm nowhere near as proficient as I should be considering I started ten years ago. My favourite sports are table tennis and squash, and I also occasionally play overly-complex board games with friends. I'm down for trying pretty much anything with a good group of people.
+I am a very sociable person with a keen interest in film and music. I have attended Glastonbury Festival every year since I was 10. I play guitar, but I'm nowhere near as proficient as I should be considering I started ten years ago. My favourite sports are table tennis and squash, and I also occasionally play overly-complex board games with friends. I'm generally down for trying pretty much anything with a good group of people.
