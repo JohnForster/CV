@@ -12,14 +12,16 @@ I am a 26 year old software developer who was sick of repetitive admin work, and
 
 ## Projects
 
+The Makers course focusses on pair programming, test driven development, agile processes, and learning by doing. You can see my progression throughout the course on (my Github)[https://github.com/JohnForster], but see below for a few select projects to demonstrate what I have learnt over the last 12 weeks:
+
 | Title    | Description |Timeframe| Technologies|
 | -------- | --------|--------| -------- |
 |[Hip Hip Array][1] | Final project at Makers, an educational tool for beginner coders to help find array methods in three languages.|10 Days|React, Express, Javascript, Ruby and Python|
-|[Bank Tech Test][2]| An example tech test, written in ruby to demonstrate TDD, OOD and clean code principles.|1 Day|Ruby|
+|[Bank Tech Test][2]| An example tech test, written in ruby to demonstrate TDD, OOP and clean code principles.|1 Day|Ruby|
 |[Game of Life][3]| An implementation of Conway's Game of Life written in React as an example tech test.|1 Day|React, Javascript|
-| [Acebook][4]        | A clone of facebook, including log-in functionality, posts, comments and likes.        |2 Weeks| Ruby, Rails, HTML|
-| [PiratesBNB][5]       | A pirate-themed clone of AirBNB, where sea-curious landlubbers can hire a ship for weekend marauding.|1 Week| Ruby, Sinatra, SQL, Node, Express, Javascript, jQuery, Jade, HTML, CSS|
-| [Airport Challenge][6]     | An early project written to get to grips with OOD, and SOLID principles|2 Days| Ruby|
+| [Acebook][4]| A clone of facebook, including log-in functionality, posts, comments and likes. This was my first project using React. |2 Weeks| Ruby, Rails, HTML|
+| [PiratesBNB][5] | A pirate-themed clone of AirBNB, where sea-curious landlubbers can hire a ship for weekend marauding.|1 Week| Ruby, Sinatra, SQL, Node, Express, Javascript, jQuery, Jade, HTML, CSS|
+| [Airport Challenge][6]     | A project written after one week of the course to get to grips with OOD, and SOLID principles|2 Days| Ruby|
 
 [1]:https://github.com/bibicollins/array_of_sunshine
 [2]:https://github.com/JohnForster/bank_tech_test
@@ -34,11 +36,13 @@ I am a 26 year old software developer who was sick of repetitive admin work, and
 
 Proficient with Ruby and Javascript, with experience in React, Rails, Node and Express. An advocate of Test Driven Development (TDD).
 
-#### Independent Learner
+#### Good Problem Solver
 
 #### Fast Learner
 
 #### Good Team Player
+
+I work best as part of a team, and thrive on collaborative problem solving. I am a good communicator, and I'm sure to make the effort to understand differing viewpoints when they arise. I come up with my best ideas when I have someone else to bounce them off, and find the social aspect of group work motivating and energising.
 
 ## Education
 
