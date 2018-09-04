@@ -34,7 +34,7 @@ The Makers course focusses on pair programming, test driven development, agile p
 
 #### Clean Code Advocate
 
-Proficient with Ruby and Javascript, with experience in React, Rails, Node and Express. An advocate of Test Driven Development (TDD).
+Over the course of the Makers bootcamp, I have developed a strong understanding of the ideas behind writing clean code, and take care to ensure that the code I write is test driven, and follows [SOLID principles](https://en.wikipedia.org/wiki/SOLID).
 
 #### Good Problem Solver
 
@@ -47,14 +47,10 @@ I work best as part of a team, and thrive on collaborative problem solving. I am
 ## Education
 
 #### Makers Academy (June 2018 - August 2018)
-
-- Curious and passionate about code.
-- Fast, independent learner.
-- Great collaborator.
+16 week coding bootcamp which focuses on a number of principles and technologies:
 - OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript, React
-- RSpec, Jasmine
+- Agile Processes
+- Ruby, Rails, JavaScript, React, Express, Node, Python, PostgreSQL, Heroku
 
 #### Edinburgh University (Graduated June 2017)
 
