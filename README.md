@@ -12,7 +12,7 @@ I am a 26 year old software developer who was sick of repetitive admin work, and
 
 ## Projects
 
-The Makers course focusses on pair programming, test driven development, agile processes, and learning by doing. You can see my progression throughout the course on (my Github)[https://github.com/JohnForster], but see below for a few select projects to demonstrate what I have learnt over the last 12 weeks:
+The Makers course focusses on pair programming, test driven development, agile processes, and learning by doing. You can see my progression throughout the course on [my Github](https://github.com/JohnForster), but see below for a few select projects to demonstrate what I have learnt over the last 12 weeks:
 
 | Title    | Description |Timeframe| Technologies|
 | -------- | --------|--------| -------- |
