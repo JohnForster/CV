@@ -1,7 +1,7 @@
 ## John Forster
 [Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests](#interests)
 
-I am a 26 year old software developer who was sick of repetitive admin work, and so enrolled in Makers Academy 16-week coding bootcamp in May 2018. I graduated in August 2018 after thoroughly enjoying the course, and I am currently looking for my first Junior Developer position.
+I completed a degree in Chemistry at the University of Edinburgh in 2016, and after eighteen months of not knowing what I wanted from a career, I found a way to satisfy my love of problem solving and fixing things when I began to teach myself to code. I enrolled in Makers Academy 16-week coding bootcamp in May 2018 and graduated in August 2018 after thoroughly enjoying the course. I am looking for a position that allows me to continue being creative, and to use my problem solving skills to do something exciting and to make a difference.
 
 <p align="center">
 <a href="https://www.linkedin.com/in/forster-john/"><img src="https://www.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-512.png" alt="linkedin" hspace="50" height="42" width="42"></a>
@@ -34,15 +34,20 @@ The Makers course focusses on pair programming, test driven development, agile p
 
 #### Clean Code Advocate
 
-Over the course of the Makers bootcamp, I have developed a strong understanding of the ideas behind writing clean code, and take care to ensure that the code I write is test driven, DRY, and follows [SOLID principles](https://en.wikipedia.org/wiki/SOLID).
+Over the course of the Makers bootcamp, I have developed a strong understanding of the ideas behind writing clean code, and take care to ensure that the code I write is test driven, DRY, and follows SOLID principles. An example of my use of TDD and clean code can be found in my [Bank Tech Test][2], as listed above.
 
 #### Good Problem Solver and Fast learner.
 
-I have always enjoyed fixing things and understanding why they work, which is what lead me to enjoy maths and science when I was younger, and programming now. I have a good logical and analytical mind, and so I'm skilled at quickly working out where a problem lies and how to fix it. I pick up new skills quickly, and this has helped me to stay ahead throughout the course.
+I have always enjoyed fixing things and understanding why they work, which is what lead me to enjoy maths and science when I was younger, and programming now. I have a good logical and analytical mind, and so I'm skilled at quickly working out where a problem lies and how to fix it. For my Makers final project, my main task was building the javascript models that would take an input and a desired output as strings, convert them to usable objects and work out array methods that would get from one to the other, including generating and testing potential function arguments. This can be found in the [projects section](#projects) above.  I pick up new skills quickly, and this has helped me to stay ahead throughout the course.
 
 #### Good Team Player
 
-I work best as part of a team, and thrive on collaborative problem solving. I am a good communicator, and I'm sure to make the effort to understand differing viewpoints when they arise. I come up with my best ideas when I have someone else to bounce them off, and find the social aspect of group work motivating and energising.
+I work best as part of a team, and thrive on collaborative problem solving. At Makers, I was a keen proponent of pairing and social coding, finding that my teams were more productive when we worked together to solve problems, rather than working separately. Using Agile processes and XP values allowed me and my team members to keep up to speed on exactly what being done and needed to be done next. I am a good communicator, and I'm sure to make the effort to understand differing viewpoints when they arise. I come up with my best ideas when I have someone else to bounce them off, and find the social aspect of group work motivating and energising.
+
+#### Excited about Code
+I am passionate about tech, and am excited by the cutting edge and where the future of tech is headed. Artificial Intelligence, Virtual and Augmented Reality and the Internet of Things are all brimming with possibility, and I would love to be a part of realising that. I have contributed to SC2AI, a community effort to develop artificially intelligent bots capable of playing Starcraft II, which has been chosen as Google DeepMind's next target after Go.
+
+I attend tech meet-ups around london, including Tech for Good (a community dedicated to using technology to do good in the world), and an indie game development meet-up.
 
 ## Education
 
@@ -67,23 +72,26 @@ A Levels in Maths, Chemistry and Drama, all at A* Grade.
 **Court of Protection** (February 2018 to June 2018)   
 *Admin Officer for the case progression branch*
 
-Handled applications to the Court of Protection from the public for permission to make financial or personal welfare decisions on someone elses behalf.
+[//]: # (Handled applications to the Court of Protection from the public for permission to make financial or personal welfare decisions on someone elses behalf.)
 
 **Health Education England** (August 2017 to February 2018)    
 *Quality Support Officer*
 
-Was responsible for observing panels on the treatment of medical students around London and the South East, writing reports on the findings, and tracking the findings as points for improvement at the hospitals.
+[//]: # (Was responsible for observing panels on the treatment of medical students around London and the South East, writing reports on the findings, and tracking the findings as points for improvement at the hospitals.)
 
 **King's College Hospital** (June 2017 to August 2017)    
 *Admin Officer*
 
-Carried out audits of emergency hospital equipment, to ensure that they were in good condition and being checked regularly by the nursing staff. Also assisted in the running of resuscitation courses teaching trainee doctors how to perform advanced life support.
+[//]: # (Carried out audits of emergency hospital equipment, to ensure that they were in good condition and being checked regularly by the nursing staff. Also assisted in the running of resuscitation courses teaching trainee doctors how to perform advanced life support.)
 
 **Barburrito** (September 2016 to June 2017)    
 *Team Leader*
 
-Made and rolled burritos. As Team Leader I was responsible for running the shop when other managers weren't around. This included managing the team, cashing up, and being responsible for closing the shop at the end of the night.
+[//]: # (Made and rolled burritos. As Team Leader I was responsible for running the shop when other managers weren't around. This included managing the team, cashing up, and being responsible for closing the shop at the end of the night.)
 
 ## Interests
-I am a very sociable person with a keen interest in film and music. I have attended Glastonbury Festival every year since I was 10. I play guitar, but I'm nowhere near as proficient as I should be considering I started ten years ago. My favourite sports are table tennis and squash, and I also occasionally play overly-complex board games with friends. I'm generally down for trying pretty much anything with a good group of people.
-
+* A very sociable person with a keen interest in film and music.
+  * I have attended Glastonbury Festival every year since I was 10.
+  * Play guitar in my spare time.
+  * A member of the independent Prince Charles Cinema in Leicester Square
+* Enjoy table tennis and squash, and I also occasionally play overly-complex board games with friends.
