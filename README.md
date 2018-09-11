@@ -1,7 +1,7 @@
 ## John Forster
 [Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests](#interests)
 
-I completed a degree in Chemistry at the University of Edinburgh in 2016, and after eighteen months of not knowing what I wanted from a career, I found a way to satisfy my love of problem solving and fixing things when I began to teach myself to code. I enrolled in Makers Academy 16-week coding bootcamp in May 2018 and graduated in August 2018 after thoroughly enjoying the course. I am looking for a position that allows me to continue being creative, and to use my problem solving skills to do something exciting and to make a difference.
+I am  a software developer looking for a position that allows me to continue being creative, and to use my problem solving skills to do something exciting and to make a difference. I completed a degree in Chemistry at the University of Edinburgh in 2016, and after eighteen months of not knowing what I wanted from a career, I found a way to satisfy my love of problem solving and fixing things when I began to teach myself to code. I enrolled in Makers Academy 16-week coding bootcamp in May 2018 and graduated in August 2018 after thoroughly enjoying the course. 
 
 <p align="center">
 <a href="https://www.linkedin.com/in/forster-john/"><img src="https://www.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-512.png" alt="linkedin" hspace="50" height="42" width="42"></a>
