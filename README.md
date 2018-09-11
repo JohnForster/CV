@@ -16,12 +16,12 @@ The Makers course focusses on pair programming, test driven development, agile p
 
 | Title    | Description |Timeframe| Technologies|
 | -------- | --------|--------| -------- |
-|[Hip Hip Array][1] | Final project at Makers, an educational tool for beginner coders to help find array methods in three languages.|10 Days|React, Express, Javascript, Ruby and Python|
+|[Hip Hip Array][1] | Final group project at Makers, an educational tool for beginner coders to help find array methods in three languages.|10 Days|React, Express, Javascript, Ruby and Python|
 |[Bank Tech Test][2]| An example tech test, written in ruby to demonstrate TDD, OOP and clean code principles.|1 Day|Ruby|
 |[Game of Life][3]| An implementation of Conway's Game of Life written in React as an example tech test.|1 Day|React, Javascript|
-| [Acebook][4]| A clone of facebook, including log-in functionality, posts, comments and likes. This was my first project using React. |2 Weeks| Ruby, Rails, HTML|
-| [PiratesBNB][5] | A pirate-themed clone of AirBNB, where sea-curious landlubbers can hire a ship for weekend marauding.|1 Week| Ruby, Sinatra, SQL, Node, Express, Javascript, jQuery, Jade, HTML, CSS|
-| [Airport Challenge][6]     | A project written after one week of the course to get to grips with OOD, and SOLID principles|2 Days| Ruby|
+| [Acebook][4]| Group project. A clone of facebook, including log-in functionality, posts, comments and likes. This was my first project using React. |2 Weeks| Ruby, Rails, HTML|
+| [PiratesBNB][5] | Group project. A pirate-themed clone of AirBNB, where sea-curious landlubbers can hire a ship for weekend marauding.|1 Week| Ruby, Sinatra, SQL, Node, Express, Javascript, jQuery, Jade, HTML, CSS|
+| [Airport Challenge][6]     | An individual project written after one week of the course to get to grips with OOD, and SOLID principles|2 Days| Ruby|
 
 [1]:https://github.com/bibicollins/array_of_sunshine
 [2]:https://github.com/JohnForster/bank_tech_test
@@ -36,7 +36,7 @@ The Makers course focusses on pair programming, test driven development, agile p
 
 Over the course of the Makers bootcamp, I have developed a strong understanding of the ideas behind writing clean code, and take care to ensure that the code I write is test driven, DRY, and follows SOLID principles. An example of my use of TDD and clean code can be found in my [Bank Tech Test][2], as listed above.
 
-#### Good Problem Solver and Fast learner.
+#### Good Problem Solver and Fast Learner
 
 I have always enjoyed fixing things and understanding why they work, which is what lead me to enjoy maths and science when I was younger, and programming now. I have a good logical and analytical mind, and so I'm skilled at quickly working out where a problem lies and how to fix it. For my Makers final project, my main task was building the javascript models that would take an input and a desired output as strings, convert them to usable objects and work out array methods that would get from one to the other, including generating and testing potential function arguments. This can be found in the [projects section](#projects) above.  I pick up new skills quickly, and this has helped me to stay ahead throughout the course.
 
