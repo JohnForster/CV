@@ -1,7 +1,7 @@
 ## John Forster
 [Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests](#interests)
 
-I am  a software developer looking for a position that allows me to continue being creative, and to use my problem solving skills to do something exciting and to make a difference. I completed a degree in Chemistry at the University of Edinburgh in 2016, and after eighteen months of not knowing what I wanted from a career, I found a way to satisfy my love of problem solving and fixing things when I began to teach myself to code. I enrolled in Makers Academy 16-week coding bootcamp in May 2018 and graduated in August 2018 after thoroughly enjoying the course. 
+I am  a software developer currently working for Vodafone, who enjoys being creative and to using my problem solving skills to do something exciting and make a difference. I completed a degree in Chemistry at the University of Edinburgh in 2016, and after eighteen months of not knowing what I wanted from a career, I found a way to satisfy my love of problem solving and fixing things when I began to teach myself to code. I enrolled in Makers Academy 16-week coding bootcamp in May 2018 and graduated in August 2018 after thoroughly enjoying the course. I have worked at Vodafone for the past 9 months, gaining experience working on a large-scale React web application.
 
 <p align="center">
 <a href="https://www.linkedin.com/in/forster-john/"><img src="https://www.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-512.png" alt="linkedin" hspace="50" height="42" width="42"></a>
@@ -12,7 +12,9 @@ I am  a software developer looking for a position that allows me to continue bei
 
 ## Projects
 
-The Makers course focusses on pair programming, test driven development, agile processes, and learning by doing. You can see my progression throughout the course on [my Github](https://github.com/JohnForster), but see below for a few select projects to demonstrate what I have learnt over the last 12 weeks:
+Over the last couple of months I have been working on an online version of the strategy board game *Diplomacy*, using it as an opportunity to master previously used technologies such as express and webpack, and teach myself new technologies such as Typescript, Preact and MongoDB. The repo can be found [here](https://github.com/JohnForster/diplomacy).
+
+The Makers course focussed on pair programming, test driven development, agile processes, and learning by doing. You can see my progression throughout the course on [my Github](https://github.com/JohnForster), but see below for a few select projects to demonstrate what I learnt over the 12 weeks of the course:
 
 | Title    | Description |Timeframe| Technologies|
 | -------- | --------|--------| -------- |
@@ -47,7 +49,7 @@ I work best as part of a team, and thrive on collaborative problem solving. At M
 #### Excited about Code
 I am passionate about tech, and am excited by the cutting edge and where the future of tech is headed. Artificial Intelligence, Virtual and Augmented Reality and the Internet of Things are all brimming with possibility, and I would love to be a part of realising that. I have contributed to SC2AI, a community effort to develop artificially intelligent bots capable of playing Starcraft II, which has been chosen as Google DeepMind's next target after Go.
 
-I attend tech meet-ups around london, including Tech for Good (a community dedicated to using technology to do good in the world), and an indie game development meet-up.
+I attend tech meet-ups around london, including Tech for Good (a community dedicated to using technology to do good in the world), an indie game development meet-up, and Javascript AI.
 
 ## Education
 
@@ -68,6 +70,9 @@ A Levels in Maths, Chemistry and Drama, all at A* Grade.
 11 GCSEs at A* Grade.
 
 ## Experience
+
+**Vodafone** (October 2018 to present)
+*Junior web developer, working mostly in JavaScript and React. Helped to build the sim-only page of the web-shop. Included working in small agile teams, with a strong focus on code-quality, performance and automation of processes.*
 
 **Court of Protection** (February 2018 to June 2018)   
 *Admin Officer for the case progression branch*
@@ -91,7 +96,7 @@ A Levels in Maths, Chemistry and Drama, all at A* Grade.
 
 ## Interests
 * A very sociable person with a keen interest in film and music.
-  * I have attended Glastonbury Festival every year since I was 10.
+  * I have attended Glastonbury Festival (almost) every year since I was 10.
   * Play guitar in my spare time.
   * A member of the independent Prince Charles Cinema in Leicester Square
 * Enjoy table tennis and squash, and I also occasionally play overly-complex board games with friends.
